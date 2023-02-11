@@ -31,4 +31,4 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=kellerM42&show_icons=true&count_private=true" alt="kellerM42" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kellerM42&show_icons=true&locale=fr&layout=compact&theme=synthwave&hide_border=true" alt="kellerM42" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kellerM42&show_icons=true&layout=compact&hide_border=true" alt="kellerM42" />
