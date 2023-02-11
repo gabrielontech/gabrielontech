@@ -3,7 +3,7 @@
 </p>
 
 <p><a href="https://twitter.com/KellerM42" target="_blank"><img src="https://img.shields.io/badge/-@KellerM42-0077B5?style=flat-square&amp;labelColor=fff&amp;logo=Twitter&amp;link=https://twitter.com/KellerM42" alt="Twitter Account"></a>  <a href="https://www.linkedin.com/in/gabriel-kitoko-97272a194/" target="_blank"><img src="https://img.shields.io/badge/-@Gabriel-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/gabriel-kitoko-97272a194/" alt="LinkedIn Badge"></a> <a href="https://www.hackerrank.com/gaabrielkeller19" target="_blank"><img src="https://img.shields.io/badge/-@Gabriel-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Hackerrank&amp;link=https://www.hackerrank.com/gaabrielkeller19" alt="HackerRank Badge"></a>
-<p>☄️ Gabriel Aka Keller Aka Draco Malefoy ☄️</p>
+<p>☄️ Gabriel A.K.A Keller A.K.A Draco Malefoy ☄️</p>
 <img align="right" src="https://media.giphy.com/media/vycbOUskVAqYw/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
