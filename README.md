@@ -11,7 +11,7 @@
 <li>🧐 Learning about <strong>Tech trends</strong>, <strong>Entrepreneurship</strong> and have a knack for <strong>Languages</strong><br>I speak fluently: French, English, Lingala, and I'm currently learning spanish.</li>
 <li>👨‍💻 Most of my projects are available on my <a href="https://github.com/kellerM42" target="_blank">Github</a>.</li>
 <li>🏋🏾‍♂️ I'm a <del>consistent</del> sporty person: <strong>Football</strong>,<strong> foosball(every day)</strong>, <strong> gym</strong> ,<strong> strech</strong>,<strong> jogging</strong>.</li>
-<li>💬 Ping me about <strong>Flutter, Low Code, security, and language exchange</strong>.</li>
+<li>💬 Ping me about <strong>Flutter, Low level learning, security, and language exchange</strong>.</li>
 <li>📙 Check out my <a href="https://cvdesignr.com/p/612503fe2d005" target="_blank">resume</a>.</li>
 <li>🎉 Fun Fact: <a href="https://en.wikipedia.org/wiki/Orion_Nebula" target="_blank">M42/NGC1976/Orion Nebula</a> is one of the thing that blow my mind,</br> but has nothing to do with 42 school for those who think so.</li>
 </ul>
