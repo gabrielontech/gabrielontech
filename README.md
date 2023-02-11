@@ -1,4 +1,4 @@
-<h2>👋 Hey what's up ?! I'm <a href="https://gabrielkeller.com/"> Gabriel </a></h2>
+<h2>👋 Hey what's up ?! I'm <a href="https://kellerm42.github.io/portfolio/"> Gabriel </a></h2>
 <p>I'm a computer science at <strong><a href="https://42.fr/en/homepage/"> 42 school</a></strong> in Paris (France). I am working on some side projects, and also focus on my school projects. I mainly use the awesome Flutter framework for my side projects (App development) and on the other hand I use C programming and CPP on the daily basis for my school projects.
 </p>
 
@@ -12,7 +12,7 @@
 <li>👨‍💻 Most of my projects are available on my <a href="https://github.com/kellerM42">Github</a>.</li>
 <li>🏋🏾‍♂️ I'm a <del>consistent</del> sporty person: <strong>Football</strong>,<strong> foosball(every day)</strong>, <strong> gym</strong> ,<strong> strech</strong>,<strong> jogging</strong>.</li>
 <li>💬 Ping me about <strong>Flutter, Low Code, security, and language exchange</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+<li>📙 Check out my <a href="https://cvdesignr.com/p/612503fe2d005">resume</a>.</li>
 <li>🎉 Fun Fact: <a href="https://en.wikipedia.org/wiki/Orion_Nebula">M42/NGC1976/Orion Nebula</a> is one of the thing that blow my mind,</br> but has nothing to do with 42 school for those who think so</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
