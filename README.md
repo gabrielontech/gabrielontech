@@ -1,19 +1,19 @@
-<h2>👋 Hey what's up ?! I'm <a href="https://kellerm42.github.io/portfolio/"> Gabriel </a></h2>
-<p>I'm a computer science at <strong><a href="https://42.fr/en/homepage/"> 42 school</a></strong> in Paris (France). I am working on some side projects, and also focus on my school projects. I mainly use the awesome Flutter framework for my side projects (App development) and on the other hand I use C programming and CPP on the daily basis for my school projects.
+<h2>👋 Hey what's up ?! I'm <a href="https://kellerm42.github.io/portfolio/" target="_blank"> Gabriel </a></h2>
+<p>I'm a computer science at <strong><a href="https://42.fr/en/homepage/" target="_blank"> 42 school</a></strong> in Paris (France). I am working on some side projects, and also focus on my school projects. I mainly use the awesome Flutter framework for my side projects (App development) and on the other hand I use C programming and CPP on the daily basis for my school projects.
 </p>
 
-<p><a href="https://twitter.com/KellerM42"><img src="https://img.shields.io/badge/-@KellerM42-0077B5?style=flat-square&amp;labelColor=fff&amp;logo=Twitter&amp;link=https://twitter.com/KellerM42" alt="Twitter Account"></a>  <a href="https://www.linkedin.com/in/gabriel-kitoko-97272a194/"><img src="https://img.shields.io/badge/-@Gabriel-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/gabriel-kitoko-97272a194/" alt="LinkedIn Badge"></a> <a href="https://www.hackerrank.com/gaabrielkeller19"><img src="https://img.shields.io/badge/-@Gabriel-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Hackerrank&amp;link=https://www.hackerrank.com/gaabrielkeller19" alt="HackerRank Badge"></a>
+<p><a href="https://twitter.com/KellerM42" target="_blank"><img src="https://img.shields.io/badge/-@KellerM42-0077B5?style=flat-square&amp;labelColor=fff&amp;logo=Twitter&amp;link=https://twitter.com/KellerM42" alt="Twitter Account"></a>  <a href="https://www.linkedin.com/in/gabriel-kitoko-97272a194/" target="_blank"><img src="https://img.shields.io/badge/-@Gabriel-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/gabriel-kitoko-97272a194/" alt="LinkedIn Badge"></a> <a href="https://www.hackerrank.com/gaabrielkeller19" target="_blank"><img src="https://img.shields.io/badge/-@Gabriel-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Hackerrank&amp;link=https://www.hackerrank.com/gaabrielkeller19" alt="HackerRank Badge"></a>
 <p>☄️ Gabriel Aka Keller Aka Draco Malefoy ☄️</p>
 <img align="right" src="https://media.giphy.com/media/vycbOUskVAqYw/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/kellerM42/english_tutor"> English Tutor </a> and <a href="https://github.com/kellerM42/CPP_training"> CPP Bootcamp </a> from 42.</li>
+<li>🔭 I’m currently working on <a href="https://github.com/kellerM42/english_tutor" target="_blank"> English Tutor </a> and <a href="https://github.com/kellerM42/CPP_training" target="_blank"> CPP Bootcamp </a> from 42.</li>
 <li>🧐 Learning about <strong>Tech trends</strong>, <strong>Entrepreneurship</strong> and have a knack for <strong>Languages</strong><br>I speak fluently: French, English, Lingala, and I'm currently learning spanish.</li>
-<li>👨‍💻 Most of my projects are available on my <a href="https://github.com/kellerM42">Github</a>.</li>
+<li>👨‍💻 Most of my projects are available on my <a href="https://github.com/kellerM42" target="_blank">Github</a>.</li>
 <li>🏋🏾‍♂️ I'm a <del>consistent</del> sporty person: <strong>Football</strong>,<strong> foosball(every day)</strong>, <strong> gym</strong> ,<strong> strech</strong>,<strong> jogging</strong>.</li>
 <li>💬 Ping me about <strong>Flutter, Low Code, security, and language exchange</strong>.</li>
-<li>📙 Check out my <a href="https://cvdesignr.com/p/612503fe2d005">resume</a>.</li>
-<li>🎉 Fun Fact: <a href="https://en.wikipedia.org/wiki/Orion_Nebula">M42/NGC1976/Orion Nebula</a> is one of the thing that blow my mind,</br> but has nothing to do with 42 school for those who think so</li>
+<li>📙 Check out my <a href="https://cvdesignr.com/p/612503fe2d005" target="_blank">resume</a>.</li>
+<li>🎉 Fun Fact: <a href="https://en.wikipedia.org/wiki/Orion_Nebula" target="_blank">M42/NGC1976/Orion Nebula</a> is one of the thing that blow my mind,</br> but has nothing to do with 42 school for those who think so</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
