@@ -15,7 +15,7 @@
 <li>📙 Check out my <a href="https://cvdesignr.com/p/612503fe2d005" target="_blank">resume</a>.</li>
 <li>🎉 Fun Fact: <a href="https://en.wikipedia.org/wiki/Orion_Nebula" target="_blank">M42/NGC1976/Orion Nebula</a> is one of the thing that blow my mind,</br> but has nothing to do with 42 school for those who think so.</li>
 </ul>
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 Programming Languages and Tools </h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="25" height="25" />
@@ -26,6 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="android" width="25" height="25" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C-language" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=kellerM42&show_icons=true&count_private=true" alt="kellerM42" />
