@@ -4,7 +4,7 @@
 
 <p><a href="https://twitter.com/KellerM42" target="_blank"><img src="https://img.shields.io/badge/-@KellerM42-0077B5?style=flat-square&amp;labelColor=fff&amp;logo=Twitter&amp;link=https://twitter.com/KellerM42" alt="Twitter Account"></a>  <a href="https://www.linkedin.com/in/kellerM42/" target="_blank"><img src="https://img.shields.io/badge/-@KellerM42-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/kellerM42/" alt="LinkedIn Badge"></a> <a href="https://www.hackerrank.com/kellerM42" target="_blank"><img src="https://img.shields.io/badge/-@KellerM42-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Hackerrank&amp;link=https://www.hackerrank.com/kellerM42" alt="HackerRank Badge"></a>
 <p>☄️ Gabriel A.K.A Keller A.K.A Draco Malefoy ☄️</p>
-<img align="right" src="https://media.giphy.com/media/vycbOUskVAqYw/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/vycbOUskVAqYw/giphy.gif" /> 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/kellerM42/english_tutor" target="_blank"> English Tutor </a> and <a href="https://github.com/kellerM42/CPP_training" target="_blank"> CPP Bootcamp </a> from 42.</li>
