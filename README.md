@@ -31,5 +31,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C-language" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=kellerM42&show_icons=true&ayout=compact&count_private=true&theme=radical" alt="kellerM42" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kellerM42&show_icons=true&layout=compact&count_private=true&theme=radical" alt="kellerM42" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=kellerM42&show_icons=true&ayout=compact&count_private=true&theme=radical" alt="kellerM42" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kellerM42&show_icons=true&layout=compact&count_private=true&theme=radical" alt="kellerM42" /> -->
