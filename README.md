@@ -1,4 +1,4 @@
-<h2>👋 Hey what's up ?! I'm <a href="https://www.gabrielkitoko.com/" rel="noopener" target="_blank"> Gabriel </a></h2>
+<h2>👋 Hey what's up ?! I'm <a href="https://www.gabrielontech.com/" rel="noopener" target="_blank"> Gabriel </a></h2>
 <p>I'm pursing a master degree in Computer science at school <strong><a href="https://42.fr/en/homepage/" rel="noopener" target="_blank"> 42 school</a></strong> in Paris (France). I am working on some side projects, and also focus on my school projects. I mainly use C and C++ programming languages for my school project. I also work on some side projects in App Development using the awesome Flutter framework.
 </p>
 
