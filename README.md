@@ -8,7 +8,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 
-<li>🔭 I’m currently working on developing an app which teaches English to the users using ChatGPT, <a href="https://github.com/gabrielontech/english_tutor" target="_blank"> English Tutor</a> and I'm also working on <a href="https://github.com/gabrielontech/CPP_training" target="_blank"> C++ Bootcamp</a> at 42.</li>
+<li>🔭 I’m currently working on developing an app which teaches English to the users using ChatGPT API, <a href="https://github.com/gabrielontech/english_tutor" target="_blank"> English Tutor</a> and I'm also working on <a href="https://github.com/gabrielontech/CPP_training" target="_blank"> C++ Bootcamp</a> at 42.</li>
 <li>🧐 Learning about <strong>Tech trends</strong>, <strong>Entrepreneurship</strong> and have a knack for <strong>Languages</strong><br>I speak fluently: French, English, Lingala, and I'm currently learning spanish.</li>
 <li>👨‍💻 Most of my projects are available on my <a href="https://github.com/gabrielontech" target="_blank">Github</a>.</li>
 <li>🏋🏾‍♂️ I'm a <del>consistent</del> active person: <strong>Football</strong>,<strong> foosball(every day)</strong>, <strong> gym</strong> ,<strong> jogging</strong>.</li>
