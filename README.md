@@ -3,7 +3,7 @@
 </p>
 
 <p><a href="https://twitter.com/gabrielontech" target="_blank"><img src="https://img.shields.io/badge/-@gabrielontech-0077B5?style=flat-square&amp;labelColor=fff&amp;logo=Twitter&amp;link=https://twitter.com/gabrielontech" alt="Twitter Account"></a>  <a href="https://www.linkedin.com/in/gabrielontech/" target="_blank"><img src="https://img.shields.io/badge/-@gabrielontech-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/gabrielontech/" alt="LinkedIn Badge"></a> <a href="https://www.hackerrank.com/kellerM42" target="_blank"><img src="https://img.shields.io/badge/-@KellerM42-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Hackerrank&amp;link=https://www.hackerrank.com/kellerM42" alt="HackerRank Badge"></a>
-<p>☄️ Gabriel A.K.A Keller A.K.A Draco Malefoy ☄️</p> 
+<p>☄️ Gabriel A.K.A GabrielOnTech A.K.A Keller A.K.A Draco Malefoy ☄️</p> 
 <img align="right" src="https://media.giphy.com/media/vycbOUskVAqYw/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
